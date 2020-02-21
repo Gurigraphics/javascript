@@ -381,7 +381,7 @@ Library -> History -> Wars -> First World War -> Shelf -> Book
 
 It is very relevant to consider this classification when writing the code.
 
-Because within your code, Google will not help you.
+Because within your code, Google Search will not help you.
 
 This library chat seems basic, simple and obvious, but 99% don't know how to use it.
 
