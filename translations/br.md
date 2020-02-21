@@ -385,7 +385,7 @@ Guerras -> Guerra dos Farrapos -> prateleira -> livro
 
 É muito relevante considerar essa classificação ao escrever o código.
 
-Porque dentro do seu código o Google não vai te ajudar.
+Porque dentro do seu código o Google Search não vai te ajudar.
 
 Esse papo de biblioteca parece básico, simples e óbvio, mas 99% não sabem utilizar.
 
