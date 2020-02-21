@@ -1,5 +1,5 @@
 # Javascript
-Javascript Games | Code Designer Style Guide
+Javascript Games | Code Design Style Guide
 
 ![GitHub Logo](https://imgur.com/YzWcKkV.png)
 
