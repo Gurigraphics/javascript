@@ -375,10 +375,9 @@ Anyway, you must know what a physical library is.
 
 The organization of a code library follows the same organizing principle.
 
-If I'm looking for a book about the Farrapos War I need to know where to search:
+If I'm looking for a book about the First World War I need to know where to search:
 
-Library -> History -> History of Brazil -> History of Rio Grande do Sul ->
-Wars -> Guerra dos Farrapos -> shelf -> book
+Library -> History -> Wars -> First World War -> Shelf -> Book
 
 It is very relevant to consider this classification when writing the code.
 
